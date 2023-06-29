@@ -1,0 +1,57 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #333333;
+    color: #000000;
+  }
+
+  .container {
+    max-width: 600px;
+    max-height: 800px;
+    height: 52%;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #222222;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+  }
+
+  h1 {
+    text-align: center;
+    color: #ffffff;
+  }
+
+  .gstl_50 .gssb_c {
+    color: black !important;
+  }
+
+  .gsc-results-wrapper-overlay,
+  .gsc-results-wrapper-visible {
+    background-color: #232433 !important;
+    color: white !important;
+  }
+
+  .gsc-modal-background-image,
+  .gsc-modal-background-image-visible  {
+    background-color: #333333 !important;
+  }
+
+  .gsc-cursor-box {
+    background-color: #333 !important;
+    margin: 1px !important;
+  }
+
+  .gcsc-more-maybe-branding-root {
+    display: none !important;
+  }
+
+  .gsc-input {
+    background-color: #333 !important;
+    color: #fff !important;
+  }
+
+  .gstl_50,
+  .gssb_c,
+  .gssb_e,
+  .gsc-completion-container {
+    background-color: #161a30 !important;
+    color: white !important;
+  }
